@@ -1,0 +1,7 @@
+logs
+views/*.lua
+nginx.conf.compiled
+*~
+.*.swp
+.htpasswd
+static
